@@ -1,0 +1,16 @@
+[
+  {
+    "id": "example-1",
+    "name": "Example Organization (Placeholder)",
+    "region": "North & East Syria",
+    "website": "https://example.org",
+    "donation_url": "https://example.org/donate",
+    "verification": {
+      "official_website": true,
+      "clear_donation_page": true,
+      "payment_in_org_name": true,
+      "recent_updates": true
+    },
+    "notes": "This is a placeholder entry. Replace with a verified organization before launch."
+  }
+]
